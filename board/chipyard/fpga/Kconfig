@@ -1,7 +1,7 @@
 if TARGET_CHIPYARD
 
 config SYS_BOARD
-	default "chipyard-fpga"
+	default "fpga"
 
 config SYS_VENDOR
 	default "chipyard"
